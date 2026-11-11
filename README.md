@@ -140,6 +140,8 @@ Resources focused on the safety of persistent state, retrieved memory, and mutab
 - **[PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG)** - Research repo for knowledge-corruption attacks against RAG pipelines. *Security research / memory poisoning*
 - **[MM-PoisonRAG](https://github.com/HyeonjeongHa/MM-PoisonRAG)** - Multimodal RAG poisoning work showing how text and image stores can corrupt downstream behaviour. *Security research / multimodal memory*
 
+- **[Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab)** - Local educational lab for persistent-memory poisoning, origin-aware recall and bounded repair, using synthetic targets and a scripted deterministic agent rather than an LLM benchmark. *Lab / memory integrity*
+
 ---
 
 ## Guardrails and policy enforcement
